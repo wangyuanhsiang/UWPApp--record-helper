@@ -1,0 +1,9 @@
+﻿<Application
+    x:Class="UWPApp__record_helper.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:UWPApp__record_helper"
+    RequestedTheme="Light">
+
+</Application>
+

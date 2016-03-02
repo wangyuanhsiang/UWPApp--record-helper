@@ -1,0 +1,1 @@
+c:\users\gerontech\documents\visual studio 2015\Projects\UWPApp -record helper\UWPApp -record helper\UWPApp -record helper.csproj;x86
